@@ -1,0 +1,13 @@
+/home/chien_neko/Desktop/test/dotnetapp/bin/Debug/netcoreapp3.1/dotnetapp
+/home/chien_neko/Desktop/test/dotnetapp/bin/Debug/netcoreapp3.1/dotnetapp.deps.json
+/home/chien_neko/Desktop/test/dotnetapp/bin/Debug/netcoreapp3.1/dotnetapp.runtimeconfig.json
+/home/chien_neko/Desktop/test/dotnetapp/bin/Debug/netcoreapp3.1/dotnetapp.runtimeconfig.dev.json
+/home/chien_neko/Desktop/test/dotnetapp/bin/Debug/netcoreapp3.1/dotnetapp.dll
+/home/chien_neko/Desktop/test/dotnetapp/bin/Debug/netcoreapp3.1/dotnetapp.pdb
+/home/chien_neko/Desktop/test/dotnetapp/obj/Debug/netcoreapp3.1/dotnetapp.csprojAssemblyReference.cache
+/home/chien_neko/Desktop/test/dotnetapp/obj/Debug/netcoreapp3.1/dotnetapp.AssemblyInfoInputs.cache
+/home/chien_neko/Desktop/test/dotnetapp/obj/Debug/netcoreapp3.1/dotnetapp.AssemblyInfo.cs
+/home/chien_neko/Desktop/test/dotnetapp/obj/Debug/netcoreapp3.1/dotnetapp.csproj.CoreCompileInputs.cache
+/home/chien_neko/Desktop/test/dotnetapp/obj/Debug/netcoreapp3.1/dotnetapp.dll
+/home/chien_neko/Desktop/test/dotnetapp/obj/Debug/netcoreapp3.1/dotnetapp.pdb
+/home/chien_neko/Desktop/test/dotnetapp/obj/Debug/netcoreapp3.1/dotnetapp.genruntimeconfig.cache
